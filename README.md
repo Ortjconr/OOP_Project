@@ -18,7 +18,7 @@ COIN_COUNT = 50
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Welcome"
+SCREEN_TITLE = "Welcome to the Money Game "
 
 
 class MyGame(arcade.Window):
